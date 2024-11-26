@@ -14,3 +14,4 @@ export {
   IAuthResponse,
   IAuthUser,
 } from './interfaces/auth.interface';
+export { IBuyerDocument, IReduxBuyer } from './interfaces/buyer.interface';
