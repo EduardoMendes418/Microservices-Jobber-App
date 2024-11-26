@@ -69,3 +69,4 @@ export {
   ICertificate,
   ISellerDocument,
 } from './interfaces/seller.interface';
+export { IEmailLocals } from './interfaces/email.interface';
