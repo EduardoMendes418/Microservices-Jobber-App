@@ -53,3 +53,11 @@ export {
   IRatingCategoryItem,
   IReviewDocument,
 } from './interfaces/review.interface';
+export {
+  ISearchResult,
+  IHitsTotal,
+  IQueryList,
+  IQueryString,
+  ITerm,
+  IPaginateProps,
+} from './interfaces/search.interface';
