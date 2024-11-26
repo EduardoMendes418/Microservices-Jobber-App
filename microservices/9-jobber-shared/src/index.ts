@@ -61,3 +61,11 @@ export {
   ITerm,
   IPaginateProps,
 } from './interfaces/search.interface';
+export {
+  SellerType,
+  ILanguage,
+  IExperience,
+  IEducation,
+  ICertificate,
+  ISellerDocument,
+} from './interfaces/seller.interface';
