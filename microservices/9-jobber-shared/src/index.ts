@@ -46,3 +46,10 @@ export {
   IOrderMessage,
   IOrderDocument,
 } from './interfaces/order.interface';
+export {
+  IReviewMessageDetails,
+  IRatingTypes,
+  IRatingCategories,
+  IRatingCategoryItem,
+  IReviewDocument,
+} from './interfaces/review.interface';
