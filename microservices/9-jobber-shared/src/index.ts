@@ -36,3 +36,13 @@ export {
   IGigInfo,
   IGigTopProps,
 } from './interfaces/gig.interface';
+export {
+  IOrderNotifcation,
+  IOffer,
+  IExtendedDelivery,
+  IDeliveredWork,
+  IOrderEvents,
+  IOrderReview,
+  IOrderMessage,
+  IOrderDocument,
+} from './interfaces/order.interface';
