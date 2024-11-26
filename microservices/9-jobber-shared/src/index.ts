@@ -15,3 +15,12 @@ export {
   IAuthUser,
 } from './interfaces/auth.interface';
 export { IBuyerDocument, IReduxBuyer } from './interfaces/buyer.interface';
+export {
+  IConversationDocument,
+  IMessageDocument,
+  IMessageDetails,
+  IChatBoxProps,
+  IChatSellerProps,
+  IChatBuyerProps,
+  IChatMessageProps,
+} from './interfaces/chat.interface';
