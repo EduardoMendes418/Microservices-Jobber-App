@@ -24,3 +24,15 @@ export {
   IChatBuyerProps,
   IChatMessageProps,
 } from './interfaces/chat.interface';
+export {
+  GigType,
+  ICreateGig,
+  ISellerGig,
+  IGigContext,
+  IGigsProps,
+  IGigCardItems,
+  ISelectedBudget,
+  IGigViewReviewsProps,
+  IGigInfo,
+  IGigTopProps,
+} from './interfaces/gig.interface';
