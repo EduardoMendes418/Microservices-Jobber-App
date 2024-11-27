@@ -71,3 +71,4 @@ export {
   ISellerDocument,
 } from './interfaces/seller.interface';
 export { IEmailLocals } from './interfaces/email.interface';
+export { uploads, videoUpload } from './cloudinary-upload';
